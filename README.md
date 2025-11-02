@@ -8,7 +8,7 @@ This project demonstrates how to use React Context to share global data across m
 - React Context API
 
 ## 📁 Project Structure
-
+'''
 my-context-app/
 ├── src/
 │   ├── context/
@@ -22,12 +22,12 @@ my-context-app/
 ├── package.json
 ├── README.md
 └── ...
-
+'''
 
 
 ## 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/my-context-app.git
+git clone https://github.com/OleksandrGulak/44.git
 cd my-context-app
 
 
